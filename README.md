@@ -8,6 +8,14 @@ course : [yuros.org](https://yuros.org/course/library-01)
 repot  : [telegram](https://t.me/yuroshub)   
 
 
+# materi
+
+| scope      | persentase  |
+| -----------| ------------ |
+| konseptual | 30%          |
+| praktek    | 70%          |
+
+
 # penilaian
 
 | scope    | persentase  |
