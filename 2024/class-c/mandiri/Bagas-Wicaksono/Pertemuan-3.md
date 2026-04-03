@@ -34,9 +34,9 @@ Jika diringkas, perubahan perspektif manusia terhadap realitas akibat adanya sim
 6. Simulasi menjadi lebih dominan bahkan menggantikan realitas *(hiperrealitas)*
 7. Perspektif manusia pada akhirnya terbentuk oleh simulasi, bukannya realitas
 
-Perspektif ini dapat berubah dikarenakan beberapa faktor seperti:
-1. Manusia mulai merepresentasikan simulasi sebagai realitas itu sendiri, sehingga cara manusia dalam memahami dunia berubah karena simulasi lebih dominan.
-2. Manusia hidup dalam **sistem tanda**,  bukannya **fakta**. Karena perspektifnya sudah sepenuhnya diarahkan oleh simulasi
+Perubahan perspektif manusia terhadap realitas memiliki faktor dan dampak sebagai berikut:
+1. Manusia menjadi lebih percaya terhadap simulasi daripada realitas itu sendiri karena simulasi dianggap lebih nyata dari realitas itu sendiri. Akibatnya cara manusia dalam memahami dunia berubah karena simulasi lebih mendominasi.
+2. Manusia hidup dalam **model** dan **sistem tanda**, bukannya **fakta**. Sehingga pengalaman dari realitas tidak lagi berdasarkan fakta, melainkan berdasarkan simulasi.
 
 ## Kesimpulan
 Dari pemikiran yang dikemukakan oleh Baudrillard menunjukkan bahwa simulasi mempunyai kemampuan untuk mengubah cara pandang manusia dalam memahami realitas aslinya. Perubahan ini terjadi melalui transformasi representasi yang diawali dengan empat tahap transformasi gambar, kemudian simulasi mulai menggantikan kenyataan *```(hiperrealitas)```*, hingga pada akhirnya kesadaran manusia terbentuk oleh simulasi itu sendiri. Manusia pada akhirnya akan kehilangan kemampuan dalam membedakan kenyataan dan tiruan, sehingga perspektif manusia terhadap realitas berubah akibat pengaruh dari simulasi. 
